@@ -1,7 +1,10 @@
 # create-nifi-kafka-flink-apps
 Create Apache NiFi, Apache Kafka, Apache Flink Apps
 
+## See
 
+* https://github.com/tspannhw/create-nifi-pulsar-flink-apps
+* https://github.com/tspannhw/pulsar-csp-ce
 
 
 #### Flink Docker
